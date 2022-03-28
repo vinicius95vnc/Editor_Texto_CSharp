@@ -1,0 +1,15 @@
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\bin\Debug\net6.0\Editor_Texto.exe
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\bin\Debug\net6.0\Editor_Texto.deps.json
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\bin\Debug\net6.0\Editor_Texto.runtimeconfig.json
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\bin\Debug\net6.0\Editor_Texto.dll
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\bin\Debug\net6.0\Editor_Texto.pdb
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\Editor_Texto.csproj.AssemblyReference.cache
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\Editor_Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\Editor_Texto.AssemblyInfoInputs.cache
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\Editor_Texto.AssemblyInfo.cs
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\Editor_Texto.csproj.CoreCompileInputs.cache
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\Editor_Texto.dll
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\refint\Editor_Texto.dll
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\Editor_Texto.pdb
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\Editor_Texto.genruntimeconfig.cache
+C:\Users\ViniciusGomes\source\repos\Editor_Texto\obj\Debug\net6.0\ref\Editor_Texto.dll
